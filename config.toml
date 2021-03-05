@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tiny-speck-of-dust.s3.us-east-2.amazonaws.com/"
 languageCode = "en-us"
 title = "A tiny speck of dust exploring space"
 theme = "ananke"
@@ -6,6 +6,10 @@ staticDir = ["images"]
 
 [cascade]
   banner = "static/images/black-hole.jpg"
+
+[build]
+  publish = "public"
+  command = "hugo --gc --minify"
 
 [sitemap]
   changefreq = "daily"
@@ -28,3 +32,12 @@ staticDir = ["images"]
   featured_image = "static/images/black-hole.jpg"
   recent_posts_number = 2
   # toc = true
+
+
+[deployment]
+  order = [".jpg$", ".gif$"]
+
+
+[[deployment.targets]]
+  name = "new-posts"
+  URL = "s3://tiny-speck-of-dust/"
