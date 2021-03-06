@@ -21,7 +21,7 @@ Maxwell took a bold step and unified these 2 fields. He combines all the laws of
 
 Well, what does this have to do with me you ask?
 
-I've for long been interested in big data processing, machine learning, space exploration, psychology and building things. These fields have felt so unrelated, that I haven't been motivated to pursue any of them in depth, and have been forever struggling to find my passion. 
+I've for long been interested in big data processing, machine learning, space exploration, psychology and building things. These fields have felt so unrelated, that I haven't been motivated to pursue any of them in depth, and have been forever struggling to find my passion. I've also frequently felt discouraged that passion is supposed to be one single topic, and that I'm just interesting in these topics, without any intention to pursue them in depth.
 
 But then, as I took a small leap into astronomy, and started reading about the [SDSS catalog](https://www.sdss.org/dr16/), I realized the huge potential of software for cataloging and archiving data as well as processing massive amounts of data to gain information. I then found open-source packages like [astropy](https://www.astropy.org/), that satisfy the yearn to build stuff, and also provide a platform to interact with experts in the fields of both astronomy and software development. This path is starting to look like a promising and grand unification of my interests. 
 
