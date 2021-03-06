@@ -1,4 +1,4 @@
-baseURL = "https://tiny-speck-of-dust.s3.us-east-2.amazonaws.com/"
+baseURL = "https://d15395.github.io/tiny-speck-of-dust/"
 languageCode = "en-us"
 title = "A tiny speck of dust exploring space"
 theme = "ananke"
