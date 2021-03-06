@@ -1,7 +1,7 @@
 ---
 title: "And Then There Was Light!"
 date: 2021-03-06T00:02:22+05:30
-draft: true
+draft: false
 aliases:
     - /posts/and-then-there-was-light
     - /2021/3/5/rants-of-a-distracted-person.html
